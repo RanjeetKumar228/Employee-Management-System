@@ -28,7 +28,7 @@ The system allows users to perform essential employee management operations such
 | Java Swing | GUI development |
 | JDBC | Database connectivity |
 | MySQL | Database management system |
-| IDE | NetBeans / Eclipse / IntelliJ IDEA |
+| IDE | IntelliJ IDEA |
 
 ---
 
